@@ -1,9 +1,7 @@
 Ansible Roles and Playbooks Assignment
 # Ansible Roles and Playbooks Assignment
 
-This repository contains all the Ansible roles and playbooks that I created during class assignments. The goal of this project is to showcase my practical skills in using Ansible for automating and managing infrastructure tasks.
-
-**Important:** All names and identifiers have been replaced with generic names to ensure academic integrity. Please note that the names you see here are my own and have been modified accordingly for grading purposes.
+This repository contains all the Ansible roles and playbooks that I created during class assignments. The goal of this project is to showcase my practical skills in using Ansible. I am able to do this because I have an amazing tutor.
 
 ---
 
@@ -35,5 +33,5 @@ This repository contains all the Ansible roles and playbooks that I created duri
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/ansible-work-stephanie/ansible-roles-playbooks.git
-   cd ansible-roles-playbooks
+   git clone https://github.com/Stephanie3107/ansible-roles-playbooks.git
+   cd ansible-roles-playbooks`
